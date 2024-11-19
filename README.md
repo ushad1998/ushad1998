@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dharma_ush4189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dharma_ush4189" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ushadharmausha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ushadharmausha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/usha-dharmanna-software-engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ushadharmausha" height="30" width="40" /></a>
 <a href="https://fb.com/usha dharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="usha dharma" height="30" width="40" /></a>
 <a href="https://instagram.com/ushadharmausha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ushadharmausha" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ushadharma2325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ushadharma2325" height="30" width="40" /></a>
